@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Data Analysis at UofM Data Analyst Bootcamp
 - 📫 How to reach me jacqueline.meyer@llojibwe.net
 - 😄 Pronouns: she/her
-- ⚡ Fun facts: I am a GIS Technician at Leech Lake Band of Ojibwe: Division of Resource Management. When I am not working or learning Data Analysis, I am a volunteer EMT and Firefighter! 
+- ⚡ Fun facts: I am a GIS Technician at Leech Lake Band of Ojibwe: Division of Resource Management. When I am not making maps or learning Data Analysis, I am a volunteer EMT and Firefighter! 
 
 <!---
 JacqueLeeMeyer/JacqueLeeMeyer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
